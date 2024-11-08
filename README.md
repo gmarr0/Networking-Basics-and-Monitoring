@@ -1,7 +1,7 @@
 # Networking-Basics-and-Monitoring
 Creating a small virtual network with virtual box and analyzing network traffic
 
-# Welcome to my Networking Basics and Monitoring Home Lab project.
+# Welcome to my Networking Basics and Monitoring project.
 
 ## Objective
 
